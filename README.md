@@ -75,8 +75,10 @@ From Web and Mobile Development to UX/UI, DevOps and Project Management. We’ve
 
 ### **Topic:**  Fullstack OAuth 2 flow: from zero to hero
 ### **Speakers:** Arely Viana - Backend Developer and Nicolás Martínez - Frontend Developer
-- [Github Repository](https://github.com/AreViana/oauth2-example)
-
+- [Presentation](Presentations/OAuth2FullStackFlow.pdf)
+- [Github Repository - Backend](https://github.com/AreViana/oauth2-example)
+- [Github Repository - Frontend](https://github.com/nicokurogane/oauth2-example-frontend)
+  
 ### **Topic:**  NestJS: the big picture
 ### **Speaker:** Antonio Mata - Backend Developer
 - [Presentation](https://github.com/Applaudo/ADC-2020/blob/master/Presentations/NestJs%20Big%20Picture.pdf).
